@@ -1,0 +1,16 @@
+.item {
+    padding: 10px;
+    margin: 5px 0px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.completed {
+    background: rgb(215, 248, 220);
+}
+
+.inProgress {
+    background: rgb(248, 215, 218);
+}
